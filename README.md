@@ -1,2 +1,2 @@
 # Calculadora
-DOnde se sube la calculadora.
+Donde se sube la calculadora.
