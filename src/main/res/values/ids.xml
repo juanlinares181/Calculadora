@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="respuesta" type="id" />
+    <item name="button_multiplicacion" type="id" />
+    <item name="button_resta" type="id" />
+    <item name="button_suma" type="id" />
+</resources>
