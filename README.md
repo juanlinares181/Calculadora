@@ -31,3 +31,17 @@ Aquí muestro el código del interior del proyecto gráfico:
 
 ![alt text](https://github.com/juanlinares181/Calculadora/blob/main/RESOURCES/codigo1.png)
 ![alt text](https://github.com/juanlinares181/Calculadora/blob/main/RESOURCES/codigo2.png)
+
+
+Aquí se muestra el código de la clase Main:
+
+![alt text](https://github.com/juanlinares181/Calculadora/blob/main/RESOURCES/main1.png)
+![alt text](https://github.com/juanlinares181/Calculadora/blob/main/RESOURCES/main2.png)
+
+
+Debido a que mi ordenador no puede ejecutar el emulador de Android Studio con diferentes API, aparte de solo disponer de un sistema IOS.
+
+No puedo comprobar la ejecución correcta de la aplicaión, en su lugar dejare el modelo final de como debe verse:
+
+![alt text](https://github.com/juanlinares181/Calculadora/blob/main/RESOURCES/vistaFinal.png)
+
